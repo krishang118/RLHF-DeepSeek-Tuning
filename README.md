@@ -6,7 +6,7 @@ This framework provides a foundation for improving the locally-hosted DeepSeek m
 
 ## Features
 
-- Interactive Training: Two modes for collecting human feedback
+- Interactive Training: Two modes for collecting human feedback -
   - User-prompted conversations with manual feedback
   - Auto-generated prompts with response evaluation
 - DeepSeek Integration: Supports both local Ollama and Hugging Face model backends
