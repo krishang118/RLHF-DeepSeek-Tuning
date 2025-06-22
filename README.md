@@ -45,7 +45,7 @@ ollama run deepseek-r1:14b
 
 ### Interactive Commands
 
-During conversations, you can use:
+During conversations, you can type:
 - `back` - Return to main menu
 - `train` - Force immediate model training
 - `stats` - Display current statistics
