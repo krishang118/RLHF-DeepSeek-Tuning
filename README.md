@@ -1,6 +1,7 @@
 # RLHF (Reinforcement Learning from Human Feedback) DeepSeek Tuning
 
 A reinforcement learning-based implementation for fine-tuning DeepSeek LLM locally using human feedback, reward model training, and experimental policy optimization features.
+
 This framework provides a foundation for improving the locally-hosted DeepSeek model's performance through interactive training sessions where AI responses are rated. A reward model is trained from this feedback, with experimental policy optimization features for exploring reinforcement learning from human feedback.
 
 ## Features
@@ -75,3 +76,11 @@ DeepSeek Chat Bot → Feedback Collector → Reward Model → Reward Model Train
 ├── README.md             # This file
 └── LICENSE               # MIT License
 ```
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+Distributed under the MIT License.  
