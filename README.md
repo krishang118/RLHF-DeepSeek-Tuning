@@ -40,7 +40,7 @@ ollama run deepseek-r1:14b
 ### Main Menu Options
 
 1. User-Prompt Feedback: Enter your own prompts and rate the LLM's responses.
-2. Automated-Prompt Feedback: The system generates prompts automatically, and you rate responses.
+2. Automated-Prompt Feedback: The system generates prompts automatically and replies to them as well. You rate the responses.
 3. Exit: Save progress and view training statistics.
 
 ### Interactive Commands
