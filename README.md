@@ -40,7 +40,7 @@ ollama run deepseek-r1:14b
 ### Main Menu Options
 
 1. User-Prompt Feedback: Enter your own prompts and rate the LLM's responses.
-2. Automated-Prompt Feedback: The system generates prompts automatically, you rate responses.
+2. Automated-Prompt Feedback: The system generates prompts automatically, and you rate responses.
 3. Exit: Save progress and view training statistics.
 
 ### Interactive Commands
@@ -59,15 +59,7 @@ Rate responses on a 1-5 scale:
 - 4: Good (+0.5 reward)
 - 5: Excellent (+1.0 reward)
 
-## Structure
-
-### Project Flow
-
-```
-DeepSeek Chat Bot → Feedback Collector → Reward Model → Reward Model Trainer → Policy Framework   
-```
-
-### Project Structure (after running the Jupyter Notebook)
+## Project Structure (after running the Jupyter Notebook)
 
 ```
 ├── Feedback LLM.ipynb    # Main end-to-end system 
