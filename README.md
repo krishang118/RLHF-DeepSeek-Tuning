@@ -25,7 +25,7 @@ This framework provides a foundation for improving the locally-hosted DeepSeek m
 ### Usage
 
 1. Clone this repository on your local machine.
-2. Install dependencies:
+2. Install the required dependencies:
 ```bash
 pip install torch transformers requests matplotlib numpy
 ```
